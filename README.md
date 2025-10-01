@@ -6,13 +6,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;Nice+to+meet+you!+:D&center=true&size=30&color=DAAA0A">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;Nice+to+meet+you!+:D&center=true&size=30&color=CB9505">
   </a>
 </h1>
 
 <h3 align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=DAAA0A&hide_border=true" />
+    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=CB9505&hide_border=true" />
   </a>
   
   Hi, I'm Mahyar Saberifard, and I'm just trying to live.
@@ -32,13 +32,13 @@
 <h2 align="center">Abilities</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Matlab" height="25" src="images/matlab.svg"></code>
-  <code><img title="Verilog" height="25" src="images/verilog.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="Godot" height="25" src="images/godot.svg"></code>
+  <code><img title="C++" height="50" src="images/cpp.svg"></code>
+  <code><img title="Matlab" height="50" src="images/matlab.svg"></code>
+  <code><img title="Verilog" height="50" src="images/verilog.svg"></code>
+  <code><img title="Linux" height="50" src="images/linux.svg"></code>
+  <code><img title="Python" height="50" src="images/python-original.svg"></code>
+  <code><img title="Git" height="50" src="images/git.svg"></code>
+  <code><img title="Godot" height="50" src="images/godot.svg"></code>
 </p>
 <hr>
 
@@ -51,6 +51,6 @@
 <h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Mahyar-Saberifard/NutSpice" title="NutSpice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=NutSpice&theme=vision-friendly-dark&border_color=DAAA0A&border_radius=10"></a><a align="right" href="https://github.com/Mahyar-Saberifard/Cpp-IDE" title="C++ IDE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=Cpp-IDE&theme=vision-friendly-dark&border_color=DAAA0A&border_radius=10"></a>
+  <a align="left" href="https://github.com/Mahyar-Saberifard/NutSpice" title="NutSpice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=NutSpice&theme=vision-friendly-dark&border_color=CB9505&border_radius=10"></a><a align="right" href="https://github.com/Mahyar-Saberifard/Cpp-IDE" title="C++ IDE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=Cpp-IDE&theme=vision-friendly-dark&border_color=CB9505&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
