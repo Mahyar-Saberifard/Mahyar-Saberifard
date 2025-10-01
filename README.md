@@ -12,7 +12,7 @@
 
 <h3 align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=DAAA0A&hide_border=true" />
   </a>
   
   Hi, I'm Mahyar Saberifard, and I'm just trying to live.
@@ -51,6 +51,6 @@
 <h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Mahyar-Saberifard/NutSpice" title="NutSpice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=NutSpice&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Mahyar-Saberifard/Cpp-IDE" title="C++ IDE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=Cpp-IDE&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Mahyar-Saberifard/NutSpice" title="NutSpice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=NutSpice&theme=vision-friendly-dark&border_color=DAAA0A&border_radius=10"></a><a align="right" href="https://github.com/Mahyar-Saberifard/Cpp-IDE" title="C++ IDE"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahyar-Saberifard&repo=Cpp-IDE&theme=vision-friendly-dark&border_color=DAAA0A&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
