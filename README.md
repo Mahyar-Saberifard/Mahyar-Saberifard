@@ -12,7 +12,7 @@
 
 <h3 align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=CB9505&hide_border=true" />
+    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=CB9505" />
   </a>
   
   Hi, I'm Mahyar Saberifard, and I'm just trying to live.
