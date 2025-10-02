@@ -12,16 +12,16 @@
 
 <h3 align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align=right width=450 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=FFBF00" />
+    <img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=FFBF00" />
   </a>
   
-  Hi, I'm Mahyar Saberifard, and I'm just trying to live.
-  <br>
-  <br>
-  A chill guy playing video games of all kinds.
+  Hi, I'm Mahyar Saberifard, a chill guy playing video games of all kinds.
   <br>
   <br>
   Studying Electrical Engineering. Yes, I hate myself.
+  <br>
+  <br>
+  A little tech-savvy, not an Arch user tho. :)
   <br>
   <br>
   Used to program a lot, mostly in C++, and love to struggle with difficult problems and trying different algorithms.
