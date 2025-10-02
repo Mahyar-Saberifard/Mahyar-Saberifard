@@ -32,13 +32,13 @@
 <h2 align="center">Abilities</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="50" src="images/cpp.svg"></code>
-  <code><img title="Matlab" height="50" src="images/matlab.svg"></code>
-  <code><img title="Verilog" height="50" src="images/verilog.svg"></code>
-  <code><img title="Linux" height="50" src="images/linux.svg"></code>
-  <code><img title="Python" height="50" src="images/python-original.svg"></code>
-  <code><img title="Git" height="50" src="images/git.svg"></code>
-  <code><img title="Godot" height="50" src="images/godot.svg"></code>
+  <img title="C++" height="50" src="images/cpp.svg"/>
+  <img title="Matlab" height="50" src="images/matlab.svg"/>
+  <img title="Verilog" height="50" src="images/verilog.svg"/>
+  <img title="Linux" height="50" src="images/linux.svg"/>
+  <img title="Python" height="50" src="images/python-original.svg"/>
+  <img title="Git" height="50" src="images/git.svg"/>
+  <img title="Godot" height="50" src="images/godot.svg"/>
 </p>
 <hr>
 
