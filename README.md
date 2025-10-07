@@ -34,7 +34,7 @@
 <p align="center">
   <img title="C++" height="50" src="images/cpp.svg"/>
   <img title="JavaScript" height="50" src="images/javascript.svg"/>
-  <img title="Problem Solving" height="50" src="images/problem.svg"/>
+  <img title="Problem Solving" height="50" src="images/prolem.svg"/>
   <img title="Arduino" height="50" src="images/arduino.svg"/>
   <img title="Matlab" height="50" src="images/matlab.svg"/>
   <img title="Verilog" height="50" src="images/verilog.svg"/>
