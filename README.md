@@ -15,13 +15,13 @@
     <img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=Mahyar-Saberifard&show_icons=true&theme=vision-friendly-dark&border_color=FFBF00" />
   </a>
   
-  Hi, I'm Mahyar Saberifard, a chill guy playing video games of all kinds.
+  Hi, I'm Mahyar Saberifard.
   <br>
   <br>
-  Studying Electrical Engineering. Yes, I hate myself.
+  Studying Electrical Engineering.
   <br>
   <br>
-  A little tech-savvy, not an Arch user tho. :)
+  Love to try new things and learn more and more about electronics.
   <br>
   <br>
   Used to program a lot, mostly in C++, and love to struggle with difficult problems and trying different algorithms.
